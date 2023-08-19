@@ -3,7 +3,7 @@
 This is a simple calculator project built using HTML, CSS, and JavaScript.
 ## Live Version
 
-Check out the live version of the calculator [here](https://mounikakuncha14.github.io/OIBSIP-cal-task1/).
+Check out the live version of the calculator [here](https://mounikakuncha14.github.io/calculator/).
 
 ## Description
 
@@ -31,7 +31,7 @@ The calculator project provides a basic user interface for performing arithmetic
 
 ## Installation
 
-No installation is required. Simply visit the [live version]() in your web browser.
+No installation is required. Simply visit the [live version](https://mounikakuncha14.github.io/calculator/) in your web browser.
 
 ## Credits
 
